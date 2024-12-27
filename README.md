@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=chrisxuzc&show_icons=true&theme=tokyonight" /> </div>
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisxuzc" /> </div>
-<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisxuzc" /> </div>
+<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=chrisxuzc&theme=xcode" /> </div>
+
 
